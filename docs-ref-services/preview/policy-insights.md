@@ -1,12 +1,12 @@
 ---
-ms.author: lmazuel
+ms.data: 11/03/2022
+title: Azure Policy Insights SDK for Python
 author: lmazuel
 ms.topic: reference
-title: Azure Policy Insights SDK for Python
-ms.data: 11/02/2022
-ms.devlang: python
-description: Reference for Azure Policy Insights SDK for Python
 ms.service: policyinsights
+ms.author: lmazuel
+description: Reference for Azure Policy Insights SDK for Python
+ms.devlang: python
 ---
 # Azure Policy Insights SDK for Python - preview
 
