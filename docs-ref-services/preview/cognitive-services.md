@@ -12,6 +12,8 @@ ms.service: cognitiveservices
 
 ## Client packages - preview
 [!INCLUDE [client-packages](cognitive-services-client-index.md)]
+## Management packages - preview
+[!INCLUDE [mgmt-packages](cognitive-services-mgmt-index.md)]
 # Azure Cognitive Services SDK for Python - preview
 
 # Azure Cognitive Services modules for Python
