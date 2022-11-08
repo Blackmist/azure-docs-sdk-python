@@ -1,10 +1,10 @@
 ---
-ms.author: iscai
-ms.topic: reference
-description: Reference for Azure Purview SDK for Python
 title: Azure Purview SDK for Python
-ms.data: 11/03/2022
+description: Reference for Azure Purview SDK for Python
 author: iscai-msft
+ms.author: iscai
+ms.data: 11/08/2022
+ms.topic: reference
 ms.devlang: python
 ms.service: purview
 ---
